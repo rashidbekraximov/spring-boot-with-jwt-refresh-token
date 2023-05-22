@@ -1,1 +1,1 @@
-# spring-boot-with-jwt-refresh-token
+# jwt-refresh-token
